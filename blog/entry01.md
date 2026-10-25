@@ -3,7 +3,8 @@ The topic I have chosen for this year-long project is **Arts/Crafts/Design**. I 
 
 Some websites I used were, [QueenCosplay](https://www.queencosplay.com/) to learn about what makeup I could use as a beginner who knows nothing on makeup. I used a lot of YouTube & Instagram tutorials to find and recreate specific styles I like to try like 
 
-Text
+#EDP
+I am currently on step 3 and 4 of 
 
 [Next](entry02.md)
 
