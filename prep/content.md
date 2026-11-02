@@ -7,22 +7,19 @@ Topic: **Arts/Crafts/Design**
 
 ## Part A: Existing technology
 * A sketch book that allows you to draw in the book & is able to connect to your phone or computer, allowing you to see your drawing in your computer or phone & with you also allowed to continue drawing while being connected. I found one made by the company called, "[The Syncify](https://thesyncify.com/products/premium-edition-syncify-sketchtab-duo-pro)" with it's prouduct called the Sketchtab.
-##### Software
+##### Software/Harware
 * 1st Google search: "Sketch books that can connect to your computer & phone"
 * 1st app looked at: (https://www.amazon.com/digital-sketchbook/s?k=digital+sketchbook)
   * After reviewing the app, it showed other different brands that sell, if not the same or similar product of a digital sketch book.
   * This brand in particular is called Syncify.
     ![The Syncify](https://thesyncify.com/cdn/shop/files/DUALMODE.jpg?v=1740911061&width=1445)
+  * Has a pencil, pen & plastic nibs to draw with the plastic ones for tablet mode
   * This brand in particular is Bluetooth connected.
   * Can be a drawing tablet
   * Can sync to your phone
   * Helps with those who struggle with learning digital art
   * Has it's own app to connect the device to your electronics & works with both IOS & Android
- * I couldn't find any other traditional art related websites or apps that were actually helpful. There were apps that allow you to trace art that was either in the app or an image you can import into the app, but for one you had to pay for a subscription and two being filled with AI slop. 
-##### Hardware
-* Tech
-  * Detail
-  * [image text](
+ * This would considerably be both Hardware & Software due the fact that it is a physical sketchbook/notebook that can become a sketch-pad, that connects to Bluetooth & has it's very own app to pair with it. On the website itself it is a bit pricey, but if you look hard enough like on Amazon you can get for a lot cheaper with of course other alternatives.
 
 ## Part B: possible future technology
 * Idea
