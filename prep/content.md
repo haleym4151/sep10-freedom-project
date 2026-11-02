@@ -18,7 +18,7 @@ Topic: **Arts/Crafts/Design**
   * Can sync to your phone
   * Helps with those who struggle with learning digital art
   * Has it's own app to connect the device to your electronics & works with both IOS & Android
- * I couldn't find any other traditional art related websites or apps that were actually helpful. There were apps that allow you to trace art that was either in the app or an image you can import into the app, but for one you had to pay for a subscription and two being filled with AI art. 
+ * I couldn't find any other traditional art related websites or apps that were actually helpful. There were apps that allow you to trace art that was either in the app or an image you can import into the app, but for one you had to pay for a subscription and two being filled with AI slop. 
 ##### Hardware
 * Tech
   * Detail
