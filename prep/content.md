@@ -6,9 +6,11 @@ Topic: **Arts/Crafts/Design**
 * The design part is part of the crafts like creating and designing props for a costume/cosplay or like designing clothes & then making them into something I can actually wear.
 
 ## Part A: existing technology
-
+* An app called [ArtEasy](https://arteasy.app/trace-drawing) that allows you to import any image you like into the app so you can trace it into in your book or anywhere you want to draw what you traced.
+* 
 ##### Software
-* Tech
+* 1st Google search: "Tracing drawing apps"
+* 1st app looked at: ArtEasy(https://arteasy.app/trace-drawing)
   * Detail
   * [image text](image URL)
 
