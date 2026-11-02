@@ -11,6 +11,7 @@ Topic: **Arts/Crafts/Design**
 * 1st Google search: "Sketch books that can connect to your computer & phone"
 * 1st app looked at: (https://www.amazon.com/digital-sketchbook/s?k=digital+sketchbook)
   * After reviewing the app, it showed other different brands that sell, if not the same or similar product of a digital sketch book.
+  * This brand in particular is called Syncify.
     ![The Syncify](https://thesyncify.com/cdn/shop/files/DUALMODE.jpg?v=1740911061&width=1445)
   * This brand in particular is Bluetooth connected.
   * Can be a drawing tablet
