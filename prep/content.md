@@ -19,7 +19,7 @@ Topic: **Arts/Crafts/Design**
   * Can sync to your phone
   * Helps with those who struggle with learning digital art
   * Has it's own app to connect the device to your electronics & works with both IOS & Android
- * This would considerably be both Hardware & Software due the fact that it is a physical sketchbook/notebook that can become a sketch-pad, that connects to Bluetooth & has it's very own app to pair with it. On the website itself it is a bit pricey, but if you look hard enough like on Amazon you can get for a lot cheaper with of course other alternatives.
+ * This would considerably be both Hardware & Software due the fact that it is a physical sketchbook/notebook that can become a sketch-pad, that connects to Bluetooth & has it's very own app to pair with it. On the website itself it is a bit pricey, but if you look hard enough like on Amazon you can get for a lot cheaper with of course other cheaper alternatives.
 
 ## Part B: possible future technology
 * Idea
