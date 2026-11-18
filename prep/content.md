@@ -15,6 +15,7 @@ Topic: **Arts/Crafts/Design**
   * This brand in particular is called Syncify.
     ![The Syncify](https://thesyncify.com/cdn/shop/files/DUALMODE.jpg?v=1740911061&width=1445)
 ### Accessories of what it contains:
+  * After reviewing the app, it showed other different brands that sell, if not the same or similar product of a digital sketch book.
   * Has a pencil, pen & plastic nibs to draw with the plastic ones for tablet mode
   * This brand in particular is Bluetooth connected.
   * Can be a drawing tablet
