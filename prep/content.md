@@ -27,6 +27,8 @@ Topic: **Arts/Crafts/Design**
 * The 2nd Google search was the literal product: The name is, "Remarkable Paper Pro"
   * After reviewing the product it had two apps one mobile & one for desktop.
   * It is a device that is main focus was for taking notes like a regular notebook, but artist saw it & instead use it for sketching their drawing in them. 
+ ![remarkable paper pro](https://m.media-amazon.com/images/I/81Kd-GR104L._AC_UF894,1000_QL80_.jpg)
+
 
 ### How it helps traditional artists:
   * Helps with those who struggle with learning digital art
