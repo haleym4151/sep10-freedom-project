@@ -16,6 +16,7 @@ Topic: **Arts/Crafts/Design**
     ![The Syncify](https://thesyncify.com/cdn/shop/files/DUALMODE.jpg?v=1740911061&width=1445)
     
 ### Accessories of what it contains:
+* Some accessories it comes with are: 
   * Has a pencil, pen & plastic nibs to draw with the plastic ones for tablet mode
   * This brand in particular is Bluetooth connected.
   * Can be a drawing tablet
