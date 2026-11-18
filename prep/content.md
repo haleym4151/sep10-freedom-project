@@ -8,22 +8,25 @@ Topic: **Arts/Crafts/Design**
 ## Part A: Existing technology
 * A sketch book that allows you to draw in the book & is able to connect to your phone or computer, allowing you to see your drawing in your computer or phone & with you also allowed to continue drawing while being connected. I found one made by the company called, "[The Syncify](https://thesyncify.com/products/premium-edition-syncify-sketchtab-duo-pro)" with it's prouduct called the Sketchtab.
 
-### Software/Harware
+### Software/Hardware
 * 1st Google search: "Sketch books that can connect to your computer & phone"
 * 1st app looked at: (https://www.amazon.com/digital-sketchbook/s?k=digital+sketchbook)
   * After reviewing the app, it showed other different brands that sell, if not the same or similar product of a digital sketch book.
   * This brand in particular is called Syncify.
     ![The Syncify](https://thesyncify.com/cdn/shop/files/DUALMODE.jpg?v=1740911061&width=1445)
+    
 ### Accessories of what it contains:
-  * After reviewing the app, it showed other different brands that sell, if not the same or similar product of a digital sketch book.
   * Has a pencil, pen & plastic nibs to draw with the plastic ones for tablet mode
   * This brand in particular is Bluetooth connected.
   * Can be a drawing tablet
   * Can sync to your phone
   * Has it's own app to connect the device to your electronics & works with both IOS & Android
 
-* 2nd Google search was the literal product: "Remarkable Paper Pro"
- 
+### Software/Hardware part two
+* The 2nd Google search was the literal product: The name is, "Remarkable Paper Pro"
+  * After reviewing the product it had two apps one mobile & one for desktop.
+  * It is a device that is main focus was for taking notes like a regular notebook, but artist saw it & instead use it for sketching their drawing in them. 
+
 ### How it helps traditional artists:
   * Helps with those who struggle with learning digital art
  * This would considerably be both Hardware & Software due the fact that it is a physical sketchbook/notebook that can become a sketch-pad, that connects to Bluetooth & has it's very own app to pair with it. On the website itself it is a bit pricey, but if you look hard enough like on Amazon you can get for a lot cheaper with of course other cheaper alternatives.
