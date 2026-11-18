@@ -15,7 +15,7 @@ Topic: **Arts/Crafts/Design**
   * This brand in particular is called Syncify.
     ![The Syncify](https://thesyncify.com/cdn/shop/files/DUALMODE.jpg?v=1740911061&width=1445)
 ### Accessories of what it contains:
-   * Has a pencil, pen & plastic nibs to draw with the plastic ones for tablet mode
+  * Has a pencil, pen & plastic nibs to draw with the plastic ones for tablet mode
   * This brand in particular is Bluetooth connected.
   * Can be a drawing tablet
   * Can sync to your phone
