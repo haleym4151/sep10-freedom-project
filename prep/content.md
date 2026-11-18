@@ -16,12 +16,12 @@ Topic: **Arts/Crafts/Design**
     ![The Syncify](https://thesyncify.com/cdn/shop/files/DUALMODE.jpg?v=1740911061&width=1445)
 * Some accessories it comes with are:
 
-### Hardware:
+#### Hardware:
 * The hardware parts of the product are:
   * Has a pencil, pen & plastic nibs to draw with the plastic ones for the tablet mode
   * Can be a drawing tablet
 
-### Software:
+#### Software:
 * The software parts of the product are: 
   * Can sync to your phone
   * Has it's own app to connect the device to your electronics & works with both IOS & Android
@@ -33,7 +33,7 @@ Topic: **Arts/Crafts/Design**
     ![remarkable paper pro](https://m.media-amazon.com/images/I/81Kd-GR104L._AC_UF894,1000_QL80_.jpg)
 * Some accessories it comes with are:
 
-### Hardware:
+#### Hardware:
 * The hardware parts of the product (Directly from the products website):
   * Size and weight: 274.1 x 196.6 x 5.1 mm (10.8 x 7.8 x 0.20 inches) Approximately 525 g (1.16 lb)
   * Display: Canvas Color display (based on E Ink Gallery™ 3) 11.8” (4:3 aspect ratio) 2160 x 1620 resolution (229 pixels per inch) Palm rejection & Adjustable reading light
@@ -43,7 +43,7 @@ Topic: **Arts/Crafts/Design**
   * Connectivity: Wi-Fi 2.4 GHz and 5 GHz, USB-C port & Accessory port
   * Auto-wake/sleep: Sensors detect when a folio is open or closed
 
-### Software:
+#### Software:
 * The software parts of the product (Directly from the products website):
   * Operating system: reMarkable OS (a custom, Linux-based operating system for digital paper displays)
   * Document support: PDF, EPUB (importing) & PDF, PNG, SVG (exporting)
