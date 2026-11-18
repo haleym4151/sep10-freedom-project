@@ -20,6 +20,8 @@ Topic: **Arts/Crafts/Design**
   * Can be a drawing tablet
   * Can sync to your phone
   * Has it's own app to connect the device to your electronics & works with both IOS & Android
+
+* 2nd Google search was the literal product: "Remarkable Paper Pro"
  
 ### How it helps traditional artists:
   * Helps with those who struggle with learning digital art
