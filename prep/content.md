@@ -27,7 +27,7 @@ Topic: **Arts/Crafts/Design**
   * Has it's own app to connect the device to your electronics & works with both IOS & Android
 
 ### Software/Hardware Part Two
-* The 2nd Google search was the literal product: The name is, "Remarkable Paper Pro"
+* The 2nd Google search was the literal product: The name is, "[Remarkable Paper Pro](https://remarkable.com/products/remarkable-paper/pro/details/features)"
   * After reviewing the product it had two apps one mobile & one for desktop.
   * It is a device that is main focus was for taking notes like a regular notebook, but artist saw it & instead use it for sketching their drawing in them. 
     ![remarkable paper pro](https://m.media-amazon.com/images/I/81Kd-GR104L._AC_UF894,1000_QL80_.jpg)
